@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "maersk-wms-dashboard",
+  "private_key_id": "117b9b99410be8aabdad20dfc7a8372b866ce7a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHcqYAwcVLU8m4\nkrFXdPyBqTDEAk9FMddUowFHvEYpChJq1YvjG9ApXI835n5J3uYyfBzSxs3wPH/R\nEKIntrPm16yOErbYg2xqmbKxrGr99mBW70Z3KaXbyGn/3bskh3DfWGU9jFwO9Jda\n5lWQRCQ//0ydBWQZkowUeLeYUgwAs6R1vyKSWn4Ly07zghM60h6o1qQ39MtqXTIO\nplrcZQ7ja9nyZRsR6Kan24vIuUqLU0FO4D1nipmpe9eAwl5ekuO0icxO3JPR87Nd\nttGsYWb2MxGBeasrY3p9YyIm4B/sCh3vFQNGgf09BaAuIkTTMUU5PBdM28S6Rig4\nT+Fd7oH1AgMBAAECggEAH+M2ozxXvNlikP3zGJZ9oIVaZJwx7FAxqzh8hemWFg2k\nMCyANwlFWLeRtlBFtK3MhBnPyes7FcO2c8iDBHJzhN7KmdRoI2mvtcNpDHsSiBQS\nBxQuYfLor6D1QZFD0G1PIIZTeWmtdj6ozEGzQGOEoC7DIv+vp18EwmkigVnszVei\nnnvIkpLJDupwK2c5irmP0dlG0TzP/+xuG7GnXQxlQ/H4ntmWWgNoIXWvR18LCoRs\nT5TCVIv1dc6+PkZgpS/IR0ZRmOokQSG4/jWPqymoVdxQwgmtQSjqPrvixitkmYK0\nN8sbiCrViEgTKnAt+xuQt4HghWFvV13mmav+b9iMKQKBgQD97ozLF7MjXUwBeACX\nnpfcQNYEiEHNtx/FTumGSOsxqYGfcjT/BeMvCXkLaSCI6fTfw2Dh4ULX7/OL6UyI\n/6GlufwNoaUGkkSDBFIUAfJucJax0peZq7fMBgD+MsLivdwfAj2wfLcfs+fw0Dfz\nyKatv9vfNfW3GlCEqUq76tJXcwKBgQDJEn+3iZ8z8IZ1jhbJ/WRE9iu0r3bCjm9D\n/j2o387U3LNXEPe9W5QMuzgeOmcyqgfe+rw+nSRH9ex3QF50MMFRvjETq5xhC1nq\n6io0VuRa5cKFi1keeeaHVanvIUK/erfZPRe+Na0EQfqpr6Hjs0flb3EgHX8UGq0g\nBsWevBbW9wKBgEHHlv9RX11s4LCMtpKQScSLoyU/atRweLFzFLltkEeoImT8f9AE\nZWqc6JdVH1F4Ua/Ze/JnmRo5FX0L7YCbv/Mfb7TUR9yg7VCHQP/f1T5YuiDMbesn\n+Y/HimBPI/76sdfyi6p5VDLJNu9B8Qyc0Ni3l6yF3OYW0f7bn/l4Bg8TAoGAOEGU\nuiUnBcEl3X4Doj/i7ehyEfuFnql7N+rKFZWIqMWW56U3qyMUKPu4l7x/Yw1vZlOA\nl4QfwoJrxnGb+6YocFZmJLq+5efnIHKjnEEzYrsl0XdLV9uDRBoTkXQc2LXc+kq9\nedpKrgZHu3IIOUzPsMGdRP77rwRHq845PFAjk8ECgYEAv6M4oamOa2Gdhm9kKFBM\nQ303SzmeTGay5I60yp9hZZBk/zg4j3JTcK/g4jCJzq9+Hd8GnsPf/Ahv1AHJRPv/\nxwKueXHI0qwFcu0nDVTxp2JfokJsB9XdY1TismF9D8m/NcXWd2wZHjGq2cnraHK2\niNMP76wgx5RSyl0g5HeM5co=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wms-sync@maersk-wms-dashboard.iam.gserviceaccount.com",
+  "client_id": "108462443541580153897",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wms-sync%40maersk-wms-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
