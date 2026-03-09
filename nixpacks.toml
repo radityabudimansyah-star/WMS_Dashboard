@@ -1,8 +1,8 @@
 [phases.setup]
-nixPkgs = ["python311", "postgresql"]
+nixPkgs = ["python311", "python311Packages.pip"]
 
 [phases.install]
-cmds = ["pip install -r requirements.txt"]
+cmds = ["python3 -m pip install -r requirements.txt"]
 
 [start]
-cmd = "cd django_backend && python manage.py migrate && gunicorn --bind 0.0.0.0:$PORT --pythonpath . wsgi:application"
+cmd = "cd wms_project/django_backend && python3 manage.py migrate && gunicorn --bind 0.0.0.0:$PORT --pythonpath . wsgi:application"
