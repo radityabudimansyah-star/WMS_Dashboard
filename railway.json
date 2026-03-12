@@ -4,7 +4,7 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "python wms_project/django_backend/manage.py migrate && gunicorn --bind 0.0.0.0:$PORT wsgi:application",
+    "startCommand": "if [ \"$SERVICE_TYPE\" = \"frontend\" ]; then python -m streamlit run wms_project/streamlit_frontend/app.py --server.port 8501 --server.address 0.0.0.0 --server.headless true; else python wms_project/django_backend/manage.py migrate && gunicorn --bind 0.0.0.0:$PORT wsgi:application; fi",
     "restartPolicyType": "ON_FAILURE",
     "restartPolicyMaxRetries": 3
   }
